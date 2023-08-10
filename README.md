@@ -1,2 +1,2 @@
 # Website-Lucagaan
-Uma ajuda voluntária minha para um pessoal do meu colégio...
+eu nao sou gay, a culpa é do meu pai
