@@ -7,7 +7,7 @@ body {
 }
 
 main {
-  margin: 0 2rem;
+  margin: 0 5rem;
 }
 
 .alunos {
@@ -63,7 +63,7 @@ main {
 }
 
 .logo-title h1 {
-  color: #f1f1f1;
+  color: #2c261e;
   font-weight: bold;
 }
 
@@ -71,7 +71,7 @@ main {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #836025;
+  background-image: linear-gradient(-90deg, #86dd7b, #e824b4) ;
   padding: 2.5rem;
 }
 
@@ -98,6 +98,7 @@ li a,
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  transition: .4s;
 }
 
 li a:hover,
@@ -209,4 +210,9 @@ li.dropdown {
 .image-box {
   display: flex;
   justify-content: space-between;
+}
+
+p.aviso {
+  text-align: center;
+  font-size: 1.25rem;
 }

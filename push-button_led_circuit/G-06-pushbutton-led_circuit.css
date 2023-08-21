@@ -7,40 +7,7 @@ body {
 }
 
 main {
-  margin: 0 2rem;
-}
-
-.alunos {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: #94cdab;
-  padding: 2rem;
-}
-
-.aluno-imagem {
-  border-radius: 0.5rem;
-  width: 20rem;
-  height: 20rem;
-} 
-
-.aluno {
-  background: #90e379;
-  border: .25rem solid #36772a;
-  border-radius: .5rem;
-  padding: .5rem;
-  margin: 0 .5rem;
-  transition: .5s;
-}
-
-.aluno:hover {
-  scale: 1.04;
-  border: .3rem solid #f9f9f9;
-  background-color: #8ef073;
-}
-
-.aluno p {
-  text-align: center;
+  margin: 0 5rem;
 }
 
 .conteudo {
@@ -98,6 +65,7 @@ li a,
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  transition: .4s;
 }
 
 li a:hover,
